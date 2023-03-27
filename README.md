@@ -1,4 +1,4 @@
-DESCRIPCIÓN GENERAL DEL PROBLEMA
+*DESCRIPCIÓN GENERAL DEL PROBLEMA*
 
 La empresa de cine Pillando necesita una aplicación de software para el manejo de reservas y disponibilidad de asientos en sus salas de cine. Actualmente, la empresa maneja una gran cantidad de salas y horarios de proyección, lo que dificulta el control manual de la disponibilidad de los asientos y puede generar errores en la asignación de los mismos.
 La empresa necesita una solución que le permita llevar un registro automatizado y en tiempo real de las reservas y disponibilidad de asientos en sus salas de cine, para tener un mayor control y optimizar el uso de sus recursos. La aplicación debe ser capaz de consultar una base de datos y verificar si hay o no disponibilidad de asientos en una sala y horario determinado.
