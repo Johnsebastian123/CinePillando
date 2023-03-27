@@ -1,10 +1,20 @@
 class Cinema:
-    pass
+
+    def __int__(self):
+        pass
+
+
+    def register_user(self, name:str, password:int):
+        user:User=User(name,password)
+        pass
 
 
 
 class User:
-    pass
+
+    def __int__(self,name:str, password:int):
+        self.name:str = name
+        self.password:int = password
 
 
 
