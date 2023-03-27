@@ -1,3 +1,12 @@
+
+class User:
+
+    def __int__(self,name:str, password:int):
+        self.name:str = name
+        self.password:int = password
+
+
+
 class Cinema:
 
     def __int__(self):
@@ -10,35 +19,36 @@ class Cinema:
 
 
 
-class User:
-
-    def __int__(self,name:str, password:int):
-        self.name:str = name
-        self.password:int = password
-
-
 
 class Booking:
-    pass
+
+    def __int__(self):
+        pass
 
 
 
 
 class Hall:
-    pass
+
+    def __int__(self):
+        pass
 
 
 
 
 class Movie:
-    pass
+
+    def  __int__(self):
+        pass
 
 
 
 
 
 class Consultation:
-    pass
+
+    def __int__(self):
+        pass
 
 
 
@@ -46,4 +56,6 @@ class Consultation:
 
 
 class Pay:
-    pass
+
+    def __int__(self):
+        pass
