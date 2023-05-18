@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="si">
+    <file>pillando.png</file>
+  </qresource>
+</RCC>
