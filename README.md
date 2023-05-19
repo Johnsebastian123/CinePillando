@@ -1,3 +1,9 @@
+*Trabajo hecho por: Santiago Vieira
+
+Santiago Cordoba
+
+John Sebastian Villegas*
+
 *DESCRIPCIÓN GENERAL DEL PROBLEMA*
 
 La empresa de cine Pillando necesita una aplicación de software para el manejo de reservas y compra de boletas. Actualmente, la empresa maneja una gran cantidad de salas y horarios de proyección, lo que dificulta el control manual de la disponibilidad de los asientos y puede generar errores en la asignación de estos.

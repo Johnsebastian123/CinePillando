@@ -151,12 +151,6 @@ class Cine:
             raise ContrasenaInvalida("contraseña incorrecta")
 
 
-    def agregar_comestibles_bolsa(self, comestible, cantidad: int):
-        if comestible.cantidad_disponible >= cantidad:
-            return self.usuario_actual.agregar_comestible_bolsa(comestible, cantidad)
-        else:
-            raise CantidadNoDisponible("no se puede agregar esta cantidad del producto solo "
-                                       f"hay {comestible.cantidad_disponible} unidades disponibles")
     def agregar_sala_bolsa(self, sala, cantidad: int):
         if sala.cantidad_disponible >= cantidad:
             return self.usuario_actual.agregar_sala_bolsa(sala, cantidad)
