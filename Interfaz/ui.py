@@ -102,6 +102,8 @@ class Registro(QDialog):
         self.Txt_nombre.clear()
         self.Txt_contrasena.clear()
 
+    def cerrar(self):
+        pass
 
     def registro_ventana(self):
 
